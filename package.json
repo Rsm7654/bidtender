@@ -1,0 +1,17 @@
+{
+  "name": "tender-24x7-portal",
+  "version": "1.0.0",
+  "description": "Tender management portal with separate user and admin login",
+  "main": "index.js",
+  "scripts": {
+    "dev": "netlify dev",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": ["tender", "portal", "netlify"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@netlify/blobs": "^10.5.0",
+    "@netlify/functions": "^5.1.2"
+  }
+}
